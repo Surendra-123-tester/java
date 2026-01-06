@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Arr{
  //Print elements of an array
 	public void printArray() {
-		int arr[]= {1,6,8,9,7};
+		int arr[]= {1,6,8,9,7,8};
 		for(int i=0;i<arr.length;i++) {
 			System.out.println(arr[i]);
 			
